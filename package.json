@@ -1,0 +1,22 @@
+{
+  "name": "real-time-typing-practice",
+  "version": "1.0.0",
+  "description": "A real-time typing practice application that helps users improve their typing skills.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "typing",
+    "practice",
+    "real-time",
+    "application"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
